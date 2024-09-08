@@ -1,6 +1,6 @@
 var tickers = JSON.parse(localStorage.getItem('tickers')) || [];
 var lastPrices = {};
-var counter = 15;
+var counter = 60;
 
 function startUpdateCycle() {
     updatePrices();
@@ -9,7 +9,7 @@ function startUpdateCycle() {
         $('#counter').text(counter);
         if (counter <= 0) {
             updatePrices();
-            counter = 15;
+            counter = 60;
         }
     }, 1000);
 }
