@@ -7,7 +7,7 @@ The Stock Price Tracker is a web application that allows users to track the late
 
 **View Prices:** Display the current price and percentage change of each stock.
 
-**Automatic Updates:** Prices refresh every 15 seconds.
+**Automatic Updates:** Prices refresh every 60 seconds.
 
 **Visual Indicators:** Stock price changes are highlighted with different colors (green for price increases, red for decreases).
 
