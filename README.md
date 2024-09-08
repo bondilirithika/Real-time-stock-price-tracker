@@ -23,3 +23,8 @@ JavaScript (with jQuery): For dynamic updates and handling user interactions.
 Python: Using Flask framework to create the server.
 
 yfinance library: For fetching stock data from Yahoo Finance.
+
+# Screenshot
+![Screenshot (24)](https://github.com/user-attachments/assets/36df3efe-e0fa-4620-b7f6-a3addfbb26e3)
+
+
